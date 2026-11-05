@@ -30,10 +30,3 @@
 | 🎩 [**Baron Türkiye**](https://github.com/MustafaDeger0/baron-turkiye) | Türkiye temalı, 2–6 kişilik çevrim içi emlak ticareti oyunu. Botlar, sıralama, sohbet | JavaScript, Node.js, Socket.IO |
 | 💬 [**React SMS App**](https://github.com/MustafaDeger0/react-sms-app) | Gerçek zamanlı sohbet uygulaması | React, Node.js, Socket.IO |
 | ☀️ [**Hava Durumu**](https://github.com/MustafaDeger0/havadurumu) | Şehir adıyla anlık hava durumu | React, Vite |
-
-### 📊 GitHub İstatistikleri
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MustafaDeger0&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaDeger0&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
-</p>
